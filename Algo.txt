@@ -1,2 +1,7 @@
 1. Decide which business to order from
+    1a. Order online or by phone
+    1b. Check for specials
+
 2. Decide which type of pizza to order
+    2a. How many people are eating
+    2b. What does each person like
